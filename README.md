@@ -11,31 +11,31 @@ Big thanks for [Aidar Nugmanoff](https://github.com/nugmanoff)
 - [ ] 3. [JavaScript 30 – Vanilla.js](https://javascript30.com/)
 
 ### Javascript
-- [] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
-- [] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
-- [] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-- [] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
-- [] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
-- [] (Optional) Advanced JS
-- [] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
-- [] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
-- [] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
-- [] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
-- [] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
-- [] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
+- [ ] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- [ ] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+- [ ] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+- [ ] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
+- [ ] 5. [Kent C Dodds – JS To Know For React](https://kentcdodds.com/blog/javascript-to-know-for-react/)
+- [ ] (Optional) Advanced JS
+- [ ] 6. [Egghead – JavaScript Promises in Depth](https://egghead.io/courses/javascript-promises-in-depth)
+- [ ] 7. [Egghead – Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth)
+- [ ] 8. [Egghead – Reduce Data with Javascript Array#reduce](https://egghead.io/courses/reduce-data-with-javascript-array-reduce)
+- [ ] 9. [Egghead – Write simple asynchronous code with JavaScript generators](https://egghead.io/courses/write-simple-asynchronous-code-with-javascript-generators)
+- [ ] 10. [Egghead – Asynchronous JavaScript with async/await](https://egghead.io/courses/asynchronous-javascript-with-async-await)
+- [ ] 11. [Egghead – Understanding JavaScript's Prototypal Inheritance](https://egghead.io/courses/understanding-javascript-s-prototypal-inheritance)
 
 ### Typescript
-- [] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-- [] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-- [] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
-- [] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
+- [ ] 0. [Docs – Typescript for OOP progammers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html) or [Docs – Typescript for JS programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- [ ] 1. [Docs – Typescript Handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+- [ ] 2. [Egghead – Up and Running with TypeScript](https://egghead.io/courses/up-and-running-with-typescript)
+- [ ] 3. [Egghead – Use Types Effectively in TypeScript](https://egghead.io/courses/use-types-effectively-in-typescript)
 - [ ] (Optional) Advanced TS
-- [] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
+- [ ] 4. [Egghead – Practical Advanced TypeScript](https://egghead.io/courses/practical-advanced-typescript)
 - [ ] 5. [Github – Type challenges](https://github.com/type-challenges/type-challenges)
 
 ### React
-- [] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
-- [] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [ ] 1. [Docs – Main Concepts](https://reactjs.org/docs/hello-world.html)
+- [ ] 2. [Docs – Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ### Node
 - [ ] 1. [Docs – Node](https://nodejs.org/en/docs/)
@@ -70,9 +70,9 @@ Big thanks for [Aidar Nugmanoff](https://github.com/nugmanoff)
 * https://microservices.io/inde.html
 
 #### Books
-- [] 1. Solidbook, Khalil Stemmler
-- [] 2. DDD Distilled, Vaughn Vernon
-- [] 3. Clean Architecture, Robert Martin
-- [] 4. TDD by eample, Kent Beck (take testingjavascript.com at the same time)
-- [] 5. P, Kent Beck
-- [] 6. DDIA, Martin Kleppmann
+- [ ] 1. Solidbook, Khalil Stemmler
+- [ ] 2. DDD Distilled, Vaughn Vernon
+- [ ] 3. Clean Architecture, Robert Martin
+- [ ] 4. TDD by eample, Kent Beck (take testingjavascript.com at the same time)
+- [ ] 5. P, Kent Beck
+- [ ] 6. DDIA, Martin Kleppmann
