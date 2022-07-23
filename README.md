@@ -6,7 +6,7 @@ Big thanks for [Aidar Nugmanoff](https://github.com/nugmanoff)
 
 ### HTML & CSS
 
-- [ ] 1. [Freecodecamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [X] 1. [Freecodecamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [ ] 2. [Freecodecamp – Bootstrap, jQuery, SASS](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 - [ ] 3. [JavaScript 30 – Vanilla.js](https://javascript30.com/)
 
