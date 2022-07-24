@@ -6,12 +6,12 @@ Big thanks for [Aidar Nugmanoff](https://github.com/nugmanoff)
 
 ### HTML & CSS
 
-- [X] 1. [Freecodecamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- [ ] 1. [Freecodecamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - [ ] 2. [Freecodecamp – Bootstrap, jQuery, SASS](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 - [ ] 3. [JavaScript 30 – Vanilla.js](https://javascript30.com/)
 
 ### Javascript
-- [ ] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+- [X] 1. [Freecodecamp – Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
 - [ ] 2. [Freecodecamp - ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
 - [ ] 3. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
 - [ ] 4. [Udemy – ES6 Javascript](https://coursehunter.net/course/udemy-javascript-es6-tutorial)
